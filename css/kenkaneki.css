@@ -1,0 +1,45 @@
+
+body{
+    text-align:center;
+    background-color: black;
+}
+h1{
+    font-family:aerial;
+    font-size: 60px;
+    background-color: silver;
+}
+h2{
+    color: white;
+    font-size:40px;
+    font-family: cursive;
+    background-color: grey;
+}
+#image{
+    
+    margin: auto;
+    max-width: auto;
+    display: block;
+    height: auto;
+    
+}
+img:hover {
+    border-radius:50%;
+transition: infinite ease;
+  }
+
+    
+#image-caption{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+
+}
+p{
+    font-family: monospace;
+    text-align:left ;
+    font-size: xx-large;
+    color:white;
+}
+.tribute-link{
+    color:white;
+}
+
